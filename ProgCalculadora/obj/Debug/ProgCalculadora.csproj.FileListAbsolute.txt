@@ -1,0 +1,7 @@
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\bin\Debug\ProgCalculadora.exe.config
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\bin\Debug\ProgCalculadora.exe
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\bin\Debug\ProgCalculadora.pdb
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\obj\Debug\ProgCalculadora.csprojAssemblyReference.cache
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\obj\Debug\ProgCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\obj\Debug\ProgCalculadora.exe
+C:\Users\abner\source\repos\ProgCalculadora\ProgCalculadora\obj\Debug\ProgCalculadora.pdb
